@@ -1,0 +1,10 @@
+04/poznamky.txt
+04/autofile.tmp
+venv/
+test/
+excel/
+.vscode/
+.pytest_cache/
+et LC_ALL=C.UTF-8
+
+
