@@ -1,0 +1,7 @@
+{
+    "name": "Micka",
+    "city": "Kyjov",
+    "breed": "common breed",
+    "color": ["black", "white"],
+    "age": 6
+}

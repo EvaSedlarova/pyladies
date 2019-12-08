@@ -1,0 +1,10 @@
+{
+  "name": "Anna",
+  "city": "Brno",
+  "language": [
+    "czech",
+    "english",
+    "Python"
+  ],
+  "age": 26
+}
